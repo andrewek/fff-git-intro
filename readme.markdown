@@ -19,6 +19,8 @@ build-lists: true
 
 ## http://www.github.com/andrewek/fff-git-intro
 
+The slides were generated dynamically from this document
+
 ---
 
 # Agenda
@@ -414,14 +416,21 @@ These platforms exist purely as a place to store your code.
 
 ---
 
+# GitHub
+
+It's probably easiest to set up GitHub per the "Learn Enough Git to be
+Dangerous" directions (see "Further Resources")
+
+---
+
 # Further Resources
 
 The following resources are free and high-quality.
 
 + [**Learn Enough Git to be Dangerous**](https://www.learnenough.com/git-tutorial) - Michael Hartl
 + [**http://try.github.io**](http://try.github.io) - Try Git
-+ [**http://git-scm.com**](http://git-scm.com)
-+ [**GitHub Help](https://help.github.com/)
++ [**http://git-scm.com**](http://git-scm.com) - Git Manual
++ [**GitHub Help**](https://help.github.com/) - GitHub reference
 
 ---
 
